@@ -351,9 +351,3 @@ http://10.0.0.1:4000/rtp/239.253.238.7:8000
 http://10.0.0.1:4000/rtp/239.253.238.9:8000
 #EXTINF:-1 tvg-name="财富天下" group-title="其他频道" tvg-logo="http://hxsgithub.522226.xyz/https://raw.githubusercontent.com/plsy1/iptv/main/logo/财富天下.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15090915413342804586.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 财富天下
 http://10.0.0.1:4000/rtp/239.253.238.230:8000
-#EXTINF:-1 tvg-name="聚鲨环球" group-title="其他频道" tvg-logo="http://hxsgithub.522226.xyz/https://raw.githubusercontent.com/plsy1/iptv/main/logo/聚鲨环球.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24111213071421948951.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 聚鲨环球
-http://10.0.0.1:4000/rtp/239.253.238.156:8000
-#EXTINF:-1 tvg-name="优购物" group-title="其他频道" tvg-logo="http://hxsgithub.522226.xyz/https://raw.githubusercontent.com/plsy1/iptv/main/logo/优购物.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch24111213073337804127.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 优购物
-http://10.0.0.1:4000/rtp/239.253.238.174:8000
-#EXTINF:-1 tvg-name="央广购物" group-title="其他频道" tvg-logo="http://hxsgithub.522226.xyz/https://raw.githubusercontent.com/plsy1/iptv/main/logo/央广购物.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch18102919143814079235.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 央广购物
-http://10.0.0.1:4000/rtp/239.253.238.199:8000

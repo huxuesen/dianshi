@@ -33,7 +33,7 @@ http://10.0.0.1:4000/rtp/239.253.238.236:8000
 http://10.0.0.1:4000/rtp/239.253.238.170:8000
 #EXTINF:-1 tvg-id="cntv-cctv17" tvg-name="CCTV17" group-title="央视频道",CCTV17
 http://10.0.0.1:4000/rtp/239.253.238.168:8000
-#EXTINF:-1 tvg-id="cntv-cctv4k" tvg-name="CCTV4K" group-title="央视频道",CCTV4K超
+#EXTINF:-1 tvg-id="cntv-cctv4k" tvg-name="CCTV4K" group-title="央视频道",CCTV4K
 http://10.0.0.1:4000/rtp/239.253.238.122:8000
 #EXTINF:-1 tvg-id="cntv-shandong" tvg-name="山东卫视4K" group-title="4K频道",山东卫视4K
 http://10.0.0.1:4000/rtp/239.253.238.172:8000

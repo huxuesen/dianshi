@@ -327,5 +327,5 @@ http://10.0.0.1:4000/rtp/239.253.238.229:8000
 http://10.0.0.1:4000/rtp/239.253.238.152:8000
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="CHC",CHC动作电影
 http://10.0.0.1:4000/rtp/239.253.238.153:8000
-#EXTINF:-1 tvg-name="CHC电影" group-title="CHC",CHC电影
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="CHC",CHC电影
 http://10.0.0.1:4000/rtp/239.253.238.154:8000
